@@ -1,4 +1,4 @@
-package com.vlox.lox;
+package com.sytranvn.vlix;
 
 class Token {
     final   TokenType   type;

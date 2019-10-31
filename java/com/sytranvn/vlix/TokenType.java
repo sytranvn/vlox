@@ -1,4 +1,4 @@
-package com.vlox.lox;
+package com.sytranvn.vlix;
 
 enum TokenType {
     // Single-character tokens.

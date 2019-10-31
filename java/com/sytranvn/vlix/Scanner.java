@@ -1,10 +1,11 @@
-package com.vlox.lox;
+package com.sytranvn.vlix;
+
+import static com.sytranvn.vlix.TokenType.*;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.HashMap;
-import static com.vlox.lox.TokenType.*;
 
 class Scanner {
     private final String source;
